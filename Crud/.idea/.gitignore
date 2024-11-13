@@ -1,6 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-#Crud_projectt/book/tests.py
-#Crud_projectt/book/__init__.py
-Crud_projectt/Books/__init__.py
+Crud_projectt/Crud/book/tests.py
+
