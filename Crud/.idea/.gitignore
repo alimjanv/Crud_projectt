@@ -2,3 +2,5 @@
 /shelf/
 /workspace.xml
 Crud/book/tests.py
+Crud/book/__init__.py
+Crud/Books/__init__.py
